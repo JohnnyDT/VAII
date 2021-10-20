@@ -26,7 +26,11 @@ body{
     color: white;
 }
 .h2-style{
+    color: blue;
+}
+.h3-style{
     color: white;
+    font-weight: bold;
 }
 .row-margin-top{
     margin-top: 2%;
