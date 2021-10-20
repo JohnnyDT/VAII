@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    font-family: sans-serif;
+    background:url(https://wallpaperaccess.com/full/3802553.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+}
+.nav-style{
+    margin-top: 4%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.nav-font-style{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+.para-style{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+.h2-style{
+    color: white;
+}
+.row-margin-top{
+    margin-top: 2%;
+}
+.row-box-shadow{
+    box-shadow: 0 9px 15px -7px grey;
+}
+.button-style{
+    width: 100px;
+    margin-right: 10px; 
+    margin-bottom: 10px;
+}
+.col-style{
+    margin-top: 2%;
+}
+
+.row-margin-carousel{
+    margin-top: 5%;
+}
