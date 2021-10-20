@@ -26,6 +26,11 @@ body{
     color: white;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+
+.h1-style{
+    color: white;
+    margin-top: 5%;
+}
 .h2-style{
     color: blue;
 }
@@ -51,3 +56,8 @@ body{
 .row-margin-carousel{
     margin-top: 5%;
 }
+
+.img-fluid{
+    max-width: 100%;
+}
+
